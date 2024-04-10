@@ -1,0 +1,18 @@
+metadata_version: 1
+name: Automatic Detection of Methane Emissions in Multispectral Satellite Imagery
+  Using a Vision Transformer
+description: Here we show that deep learning can be leveraged to overcome the trade-off
+  in terms of spectral resolution that comes with multi-spectral satellite data, resulting
+  in a methane detection tool with global coverage and high temporal and spatial resolution.
+  We compare our detections with airborne methane measurement campaigns. Our results
+  suggest that our method is able to detect  methane point sources in Sentinel-2 multi-spectral
+  satellite data down to plumes of 0.01 km2, corresponding to 200 to 300 kg CH4/h
+  sources (with variations depending on wind conditions). The assessment of our model
+  on synthetic data as well as on real methane plumes results in an order of magnitude
+  improvement over the state-of-the-art, providing a significant step towards the
+  automated, high resolution detection of methane emissions at a global scale, every
+  few days.
+authors:
+- name: Bertrand Rouet-Leduc
+  affiliations:
+  - name: Kyoto University
